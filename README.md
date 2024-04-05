@@ -32,7 +32,7 @@
                 <p class="quote mb-0 small">Selamat menunaikan ibadah puasa 1445 H. Marhaban ya Ramadan.
 Semoga Allah melimpahkan nikmat dan kebahagiaan untuk kita di bulan Ramadhan tahun ini membawa sukacita, kesehatan, dan kemakmuran bagi kita semua.^_^</br> Aamiin </b>
 Hari ini kurendahkan diriku, kulupakan kesombonganku, kutundukkan kepalaku, lalu kududuk terpaku di depan jendela hatimu, menanti pintu maafmu, terbuka untukku. </br>Selamat Hari Raya Idul Fitri, Mohon maaf lahir dan batin.</p>
-                <footer class="blockquote-footer">By ==> ꧁ঔৣ♧¤ṡåṅԀï¤ঔৣ꧂)<footer>
+                <footer class="blockquote-footer">By ==> ꧁ঔৣ♧¤ṡåṅԀï¤ঔৣ꧂ <footer>
               </blockquote>
         </h1>
       </div>
