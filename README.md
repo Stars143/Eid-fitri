@@ -13,7 +13,9 @@
     <title>Selamat Hari Raya Idul Fitri</title>
   </head>
   <body>
-
+<audio autoplay>
+ <source src="takbiran.mp3" type="audio/mp3"/>
+</audio>
     <link href='https://fonts.googleapis.com/css?family=Raleway:500,400,300,200,100' rel='stylesheet' type='text/css'>
     <canvas class="container" id="container" role="main"></canvas>
       <div class="content">
@@ -30,7 +32,7 @@
                 <p class="quote mb-0 small">Selamat menunaikan ibadah puasa 1445 H. Marhaban ya Ramadan.
 Semoga Allah melimpahkan nikmat dan kebahagiaan untuk kita di bulan Ramadhan tahun ini membawa sukacita, kesehatan, dan kemakmuran bagi kita semua.^_^</br> Aamiin </b>
 Hari ini kurendahkan diriku, kulupakan kesombonganku, kutundukkan kepalaku, lalu kududuk terpaku di depan jendela hatimu, menanti pintu maafmu, terbuka untukku. </br>Selamat Hari Raya Idul Fitri, Mohon maaf lahir dan batin.</p>
-                <footer class="blockquote-footer">By ==> ꎭꋪ.ꈤꂦ.ꈤꍏꎭꍟ</footer>
+                <footer class="blockquote-footer">By ==> ꧁ঔৣ♧¤ṡåṅԀï¤ঔৣ꧂)<footer>
               </blockquote>
         </h1>
       </div>
@@ -42,7 +44,7 @@ Hari ini kurendahkan diriku, kulupakan kesombonganku, kutundukkan kepalaku, lalu
 
 
 
-
+    
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
